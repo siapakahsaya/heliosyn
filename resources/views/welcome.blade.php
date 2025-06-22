@@ -34,7 +34,11 @@
 <body>
 <x-navbar brand="Heliosyn" />
 <x-header/>
-<x-about imageUrl="{{asset('solarpanel.avif')}}"/>
-
+<x-about/>
+<x-services/>
+<x-project/>
+<x-services/>
+<x-testimonials/>
+<x-footer/>
 </body>
 </html>
